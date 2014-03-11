@@ -1,6 +1,6 @@
 SangforAutoLogin
 ================
-A auto login script for Sangfor proxy.
+An auto login script for Sangfor proxy.
 
 ##Usage:##
 
